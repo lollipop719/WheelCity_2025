@@ -95,7 +95,7 @@ https://drive.google.com/file/d/1FDLIXpQlXcAVRUNkvkp9R28v2NBAAoga/view?usp=shari
 
 - **고은서 (Ko Eunseo)**: PM (Project Manager)
 - **권정준 (Gwon Jeongjoon)**: UI/UX, Front-end Developer
-- **이상범 (Lee Sangbumm)**: AI Engineer, Front-end Developer
+- **이상범 (Lee Sangbum)**: AI Engineer, Front-end Developer
 - **황지훈 (Hwang Jihoon)**: Full Stack Developer
 - **강서현 (Kang Seohyun)**: Back-end Developer
 
@@ -111,3 +111,4 @@ https://drive.google.com/file/d/1FDLIXpQlXcAVRUNkvkp9R28v2NBAAoga/view?usp=shari
 - 이상범: @AsyncNomad / sangddung2@kaist.ac.kr
 - 황지훈: @lollipop719 / jihwang@kaist.ac.kr
 - 강서현: @kang022878 / kang022878@kaist.ac.kr
+
